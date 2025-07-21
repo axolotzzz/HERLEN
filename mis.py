@@ -14,7 +14,7 @@ UPLOAD_HTML = '''
   <label>WMS File:</label><br><input type=file name=wms_file required><br><br>
   <input type=submit value="Reconcile">
 </form>
-<p><a href="https://github.com/your-username/mis-reconciliation" target="_blank">View GitHub Repository</a></p>
+<p><a href="https://github.com/axolotzzz/HERLEN" target="_blank">View GitHub Repository</a></p>
 '''
 
 DASHBOARD_HTML = '''
