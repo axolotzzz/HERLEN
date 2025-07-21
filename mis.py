@@ -12,9 +12,9 @@ UPLOAD_HTML = '''
 <h2>!!!!UPLOAD SAP AND WMS EXCEL FILES!!!!</h2>
 <p>!!!!!YOU CAN DOWNLOAD SAMPLE EXCEL FILES FROM THE LINK BELOW!!!!!</p>
 <form method=post enctype=multipart/form-data action="/reconcile">
-  <label>!!SAP FILE!!:</label><br><input type=file name=sap_file required><br><br>
-  <label>!!WMS FILE!!:</label><br><input type=file name=wms_file required><br><br>
-  <input type=submit value="!!!RECONCILE!!!RECONCILE!!!RECONCILE!!!🔥🔥🔥">
+  <label>SAP FILE!!</label><br><input type=file name=sap_file required><br><br>
+  <label>WMS FILE!!</label><br><input type=file name=wms_file required><br><br>
+  <input type=submit value="🔥🔥🔥!!!RECONCILE!!!RECONCILE!!!RECONCILE!!!🔥🔥🔥">
 </form>
 <p><a href="https://github.com/axolotzzz/HERLEN" target="_blank">View GitHub Repository</a></p>
 '''
