@@ -8,7 +8,7 @@ UPLOAD_HTML = '''
 <!doctype html>
 <title>MIS Reconciliation Tool</title>
 <h1>🦅M.I.S🦅</h1>
-<h2>!!!MAKE RECONILIATION GREAT AGAIN!!!</h2>
+<h2>!!!MAKE RECONCILIATION GREAT AGAIN!!!</h2>
 <h2>!!!!UPLOAD SAP AND WMS EXCEL FILES!!!!</h2>
 <p>!!!!!YOU CAN DOWNLOAD SAMPLE EXCEL FILES FROM THE LINK BELOW!!!!!</p>
 <form method=post enctype=multipart/form-data action="/reconcile">
